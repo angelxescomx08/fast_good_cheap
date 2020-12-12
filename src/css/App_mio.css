@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+	grid-template-rows: 150px 150px 15px;
+	grid-template-columns: 150px 150px ;
+}
+
+.word{
+    margin-top: 0;
+    padding: .5rem;
+}
